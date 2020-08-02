@@ -2,7 +2,7 @@
 
 <br><br>
 
-To Watch The Bot in Action Visit [](https://www.linkedin.com/feed/update/urn:li:activity:6695681019619639296/)
+To Watch The Bot in Action  [Click Hear](https://www.linkedin.com/feed/update/urn:li:activity:6695681019619639296/)
 
 <br>
 
