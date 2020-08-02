@@ -88,11 +88,11 @@ def future():
 
 <br>
 
- This Algorithm Basically Takes in the Present values in the 
- 2048 GAME  and then It Places in the Background it  gets the best 
- Possible Move Which Will Minimize the Size Of the Game (Basically Increase the 
+ This Algorithm Basically Takes in the values in the 
+ Present GAME State and then It Plyes in the Background to  gets the best 
+ Possible Move Which will Minimize the Size Of the Game (Basically Increase the 
  Score ) But it have a drawback that there are many Possible move which 
- will Minimize the Game But It many a times Separates the Possibles Paires
+ will Minimize the Game But  many a times Separates the Possibles Paires
  due to Which we will Not Get the Best Possible Score .
  
  <br>
@@ -101,7 +101,7 @@ def future():
  ***
  
  Hence To Overcome This We Further see the Future of the Future itself
- This Future Sacking Algo could see as many possibility as you Want to see
+ This Future Sacking Algo could see as many possibility as you Want to see,
  it will Just Make it Computationally Heavy .
  
  ***
@@ -111,8 +111,9 @@ def future():
  ***
  
  Here In Above Image 8 Basically  Means That the Algo
- is Has Computed  The Best Possible Move After Looking in at 8th Best 
- Possible Game Outcome.
+ Has Computed  The Best Possible Move After Looking at the Game State which is 8 Gen Ahead of The 
+ Present Game State.
+ 
  
  * Though We are Looking Into The Future of The of Particular Game State
  State Still there is Always Uncertainty in the Perfect Move Calculation
