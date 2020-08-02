@@ -2,6 +2,10 @@
 
 <br><br>
 
+To Watch The Bot in Action Visit [](https://www.linkedin.com/feed/update/urn:li:activity:6695681019619639296/)
+
+<br>
+
 ![](img2048.png)
 ***
 <br>
